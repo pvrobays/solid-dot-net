@@ -1,0 +1,6 @@
+@_9.Lifetime_HostAddress = http://localhost:5112
+
+GET {{_9.Lifetime_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
